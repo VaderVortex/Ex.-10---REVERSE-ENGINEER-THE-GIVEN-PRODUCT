@@ -31,9 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![EMPD ex 4_2](https://github.com/user-attachments/assets/eea1d8f4-bd69-4488-8a94-5ef88bceaedc)
+
 
 ### Output:
-![WhatsApp Image 2024-11-27 at 11 30 22 AM](https://github.com/user-attachments/assets/42446cd9-7a75-4002-9eba-d99ee0978bfb)
+![EMPD ex 4_1](https://github.com/user-attachments/assets/bae6a4ed-5d33-491b-a3ca-9338fd2b79f6)
+
 
 
 ### Name: Sanjeev Kumar S
